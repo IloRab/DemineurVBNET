@@ -1,0 +1,26 @@
+[
+  {
+    "nom": "Test3",
+    "nbcase": 2,
+    "nbpartie": 1,
+    "tempcumule": 58
+  },
+  {
+    "nom": "Test2",
+    "nbcase": 27,
+    "nbpartie": 6,
+    "tempcumule": 1800
+  },
+  {
+    "nom": "Test1",
+    "nbcase": 259,
+    "nbpartie": 11,
+    "tempcumule": 631
+  },
+  {
+    "nom": null,
+    "nbcase": 0,
+    "nbpartie": 0,
+    "tempcumule": 0
+  }
+]

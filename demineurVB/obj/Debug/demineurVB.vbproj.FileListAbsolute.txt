@@ -1,0 +1,155 @@
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.Resources.resources
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.exe.config
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.exe
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.xml
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.exe
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.xml
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.Demineur.resources
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.exe.config
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.exe
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.pdb
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.xml
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.Demineur.resources
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.Resources.resources
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.exe
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.xml
+C:\Users\rabiil0111\Desktop\ProjetVB(le demineur)-20220512T121613Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.pdb
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.exe.config
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.exe
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.pdb
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\demineurVB.xml
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.Demineur.resources
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.Resources.resources
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.exe
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.xml
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.pdb
+Z:\sae\BB\ProjetVBle_demineur-20220512T130120Z-001\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+C:\Users\andri\Desktop\ProjetVB(le demineur)\demineurVB\demineurVB\obj\Debug\demineurVB.vbproj.CopyComplete
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.exe.config
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.exe
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.pdb
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.xml
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\Newtonsoft.Json.dll
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\Newtonsoft.Json.xml
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.Demineur.resources
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.Resources.resources
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.CopyComplete
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.exe
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.xml
+Z:\sae\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.pdb
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.exe.config
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.exe
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.pdb
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.xml
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.Demineur.resources
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.Resources.resources
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.CopyComplete
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.exe
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.xml
+C:\Users\rabiil0111\Desktop\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.exe.config
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.exe
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\demineurVB.xml
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.Demineur.resources
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.Resources.resources
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.vbproj.CopyComplete
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.exe
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.xml
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\SuiteDuDemineur\demineurVBDerniereVersion-20220519T120501Z-001 (1)\demineurVBDerniereVersion-20220519T120501Z-001\demineurVBDerniereVersion\demineurVB\obj\Debug\demineurVB.LesOptions.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.exe.config
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.exe
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.xml
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.Demineur.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.LesOptions.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.Resources.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.CopyComplete
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.exe
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.xml
+C:\Users\andri\Desktop\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.exe.config
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.exe
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.xml
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.Demineur.resources
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.LesOptions.resources
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.Resources.resources
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.CopyComplete
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.exe
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.xml
+C:\Users\andri\Desktop\Nouveau dossier\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.exe.config
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.exe
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.pdb
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\demineurVB.xml
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.AssemblyReference.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.Demineur.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.FormInscri.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.LesOptions.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.Resources.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.scoreEnregistrement.resources
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.GenerateResource.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.vbproj.CopyComplete
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.exe
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.xml
+C:\Users\andri\Desktop\demineurVB_Ilo_Sathusan_groupe112\demineurVB_Ilo_112_Sathusan_112\demineurVB\obj\Debug\demineurVB.pdb
